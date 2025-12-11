@@ -64,5 +64,4 @@ def part2():
             if invalid2(str(i)):
                 ans += i
     return ans
-# print(invalid2("101101"))
 print(part2())
